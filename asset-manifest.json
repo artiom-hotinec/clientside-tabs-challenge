@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clientside-tabs-challenge/static/css/main.867032f7.css",
+    "main.js": "/clientside-tabs-challenge/static/js/main.3e69ff7e.js",
+    "index.html": "/clientside-tabs-challenge/index.html",
+    "main.867032f7.css.map": "/clientside-tabs-challenge/static/css/main.867032f7.css.map",
+    "main.3e69ff7e.js.map": "/clientside-tabs-challenge/static/js/main.3e69ff7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.867032f7.css",
+    "static/js/main.3e69ff7e.js"
+  ]
+}
