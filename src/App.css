@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+
+.tab-panel-container {
+    width: 100%;
+    max-width: 650px;
+    padding: 10px 0;
+    text-align: center;
+}
